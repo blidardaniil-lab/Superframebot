@@ -1,0 +1,9 @@
+{
+  "geode": "4.6.0",
+  "gd": { "win": "*" },
+  "id": "user.framebot",
+  "name": "FrameBot",
+  "version": "v1.0.0",
+  "developer": "user",
+  "description": "Бот с фрейм-окнами: запись кликов, цветные кружки, рендер видео."
+}
